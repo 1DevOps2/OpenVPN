@@ -1,5 +1,5 @@
 
-### Replace ${MY_CONFIGURATION_FILE} with the OpenVPN configuration file you want to use. 
+#### Replace ${MY_CONFIGURATION_FILE} with the OpenVPN configuration file you want to use. 
 
 	openvpn2 --config ${MY_CONFIGURATION_FILE} --verb 6
 
